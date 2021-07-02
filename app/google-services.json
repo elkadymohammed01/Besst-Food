@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547886136490",
+    "project_id": "good-cheif",
+    "storage_bucket": "good-cheif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547886136490:android:543bc80ef519089722e4d3",
+        "android_client_info": {
+          "package_name": "com.e.goodcheif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547886136490-1jmiseltjqc5a47p4a369sf11uu5mfca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ59ooqMTDzixlXEwraE3NVfl8EXO-Fh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547886136490-1jmiseltjqc5a47p4a369sf11uu5mfca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/restaurant"
+        android:title="Orders" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_av_timer_black_24dp"
+        android:title="Take place" />
+
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/price_tag"
+        android:title="Kitchen offer" />
+
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/ic_bx_cart_2"
+        android:title="Cart" />
+
+</menu>

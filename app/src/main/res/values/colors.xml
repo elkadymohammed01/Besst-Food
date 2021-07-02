@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#272670</color>
+    <color name="colorPrimaryDark">#2A2E43</color>
+    <color name="colorAccent">#E30b5d</color>
+    <color name="red">#E30b5d</color>
+    <color name="Belize">#2980B9</color>
+    <color name="gray">#808080</color>
+    <color name="White">#ffffff</color>
+    <color name="green">#228c22</color>
+    <color name="SoftGreen">#E2EBFFDF</color>
+    <color name="SoftPink">#FFE2F2</color>
+    <color name="SoftBlue">#D6E4FF</color>
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="item_name">#0c0c0c</color>
+    <color name="description">#1a1a1a</color>
+    <color name="chef">#777</color>
+    <color name="timestamp">#777</color>
+</resources>
